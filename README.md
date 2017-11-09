@@ -44,10 +44,6 @@ Dado que el objetivo del curso es que los docentes desarrollen sus propios proye
 
 Además del uso del aula virtual y de las experiencias difundidas a través de la web del CEP, se llevará a cabo una sesión final de "buenas prácticas" en la que cada centro mostrará algunos de los trabajos y proyectos desarrollados.
 
-### FORMULARIO
-
-Para facilitar la coordinación y preparación de la actividad os pedimos que cumplimentéis este formulario: https://goo.gl/forms/RSrLq4kRH0mRpwAB3
-
 ## Sesiones de la actividad
 
 |Fecha	|Hora de inicio	|Hora de fin	|Lugar de realización
