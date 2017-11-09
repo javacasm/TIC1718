@@ -48,7 +48,10 @@ Para facilitar la coordinación y preparación de la actividad os pedimos que cu
 
 ## Sesiones de la actividad
 
-
+|Fecha	|Hora de inicio	|Hora de fin	|Lugar de realización
+|---|---|---|---
+|9/11/2017	|17:00	|19:00	|CEP DE GRANADA
+|15/11/2017	|17:00	|19:00	|CEP DE GRANADA
 
 ## Referencias
 
